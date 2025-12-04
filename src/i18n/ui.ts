@@ -21,7 +21,7 @@ export const ui: Record<Language, Translation> = {
     toc: 'Inhaltsverzeichnis',
   },
   'en': {
-    title: 'HIZO.xyz',
+    title: 'HIZO',
     subtitle: 'The Power of Sound',
     description: 'The Power of Sound',
     posts: 'Posts',
@@ -93,8 +93,8 @@ export const ui: Record<Language, Translation> = {
     toc: 'Оглавление',
   },
   'zh': {
-    title: 'HIZO.xyz',
-    subtitle: '力量之音',
+    title: '力量之音',
+    subtitle: 'hizo.xyz',
     description: '有一回听到娃娃咿呀学语，hizo、hizo！记起童年的石头号子也是hizo！hizo！遂注册此域！',
     posts: '文章',
     tags: '标签',
